@@ -2,7 +2,7 @@
 title: Yichen Xiao
 description: An undergraduate student at Southeast University in China.
 url: https://ekventitas.github.io/YichenXiao.github.io/
-avatar: /avatar.jpeg
+avatar: /56d22d612a60c3db45126bebab25881f_720.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -35,8 +35,8 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://ekventitas.github.io/YichenXiao.github.io/
+    - hhttps://ekventitas.github.io/YichenXiao.github.io/
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yichen Xiao
+  url: https://ekventitas.github.io/YichenXiao.github.io/
+  email: 213221558@seu.edu.cn
