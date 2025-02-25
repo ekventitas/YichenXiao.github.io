@@ -6,7 +6,8 @@ layout: default
 
 <ul class="post-list">
     {% for post in site.researchs limit: 10 %}
-    <li>
+    <section class="post-entry"></section>
+    <li class="post-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt | strip_html }}</p>
