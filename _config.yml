@@ -57,3 +57,8 @@ author:
   name: Yichen Xiao
   url: https://ekventitas.github.io/YichenXiao.github.io/
   email: 213221558@seu.edu.cn
+
+collections:
+  subposts:
+    output: true
+    permalink: /competition/:path/
