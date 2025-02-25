@@ -1,5 +1,5 @@
 ---
-layout: subhome
+layout: honorhome
 permalink: /Honor/
 title: Honor
 ---

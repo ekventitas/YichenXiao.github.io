@@ -1,5 +1,5 @@
 ---
-layout: subhome
+layout: compehome
 permalink: /Competition/
 title: Competition
 ---
