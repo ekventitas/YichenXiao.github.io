@@ -61,4 +61,4 @@ author:
 collections:
   subposts:
     output: true
-    permalink: /subposts/:path/
+    permalink: /competition/:path/
