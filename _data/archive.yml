@@ -2,8 +2,8 @@
   title: Honor
   url: /Honor/
 - type: Competition
- title: Competition
- url: /Competition/
+  title: Competition
+  url: /Competition/
 - type: Project
   title: Project
   url: /Project/
