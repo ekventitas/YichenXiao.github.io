@@ -1,9 +1,9 @@
-- type: Honors
-  title: Honors
-  url: /Honors/
-- type: Competitions
- title: Competitions
- url: /Competitions/
+- type: Honor
+  title: Honor
+  url: /Honor/
+- type: Competition
+ title: Competition
+ url: /Competition/
 - type: Project
   title: Project
   url: /Project/
