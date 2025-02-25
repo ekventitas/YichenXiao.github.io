@@ -1,5 +1,5 @@
 ---
-layout: subhome
+layout: prohome
 permalink: /Project/
 title: Project
 ---

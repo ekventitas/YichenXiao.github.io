@@ -1,5 +1,5 @@
 ---
-layout: subhome
+layout: reshome
 permalink: /Research/
 title: Research
 ---

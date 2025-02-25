@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1>Competition</h1>
+<h1>Honor</h1>
 
 <ul class="post-list">
-    {% for post in site.competitions limit: 10 %}
+    {% for post in site.projects limit: 10 %}
     <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

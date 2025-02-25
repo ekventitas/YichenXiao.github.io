@@ -59,6 +59,15 @@ author:
   email: 213221558@seu.edu.cn
 
 collections:
-  subposts:
+  honors:
+    output: true
+    permalink: /honor/:path/
+  competitions:
     output: true
     permalink: /competition/:path/
+  projects:
+    output: true
+    permalink: /project/:path/
+  researchs:
+    output: true
+    permalink: /research/:path/
