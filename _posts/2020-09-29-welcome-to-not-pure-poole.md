@@ -1,7 +1,7 @@
 ---
 layout: post
 title: School Merit Student 
-date: 2022-2023
+time: 2022-2023
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
