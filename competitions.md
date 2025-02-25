@@ -1,5 +1,5 @@
 ---
-layout: Competition
+layout: home
 permalink: /Competition/
 title: Competition
 ---

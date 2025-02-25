@@ -1,5 +1,5 @@
 ---
-layout: Honor
+layout: home
 permalink: /Honor/
 title: Honor
 ---
