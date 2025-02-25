@@ -1,5 +1,5 @@
 ---
-layout: archive-dates
-permalink: /dates/
-title: Dates
+layout: Honors
+permalink: /Honors/
+title: Honors
 ---
