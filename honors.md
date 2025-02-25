@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: home
 permalink: /Honor/
 title: Honor
 ---
+
 **2022-2023** School Merit Student
 
 **2023-2024** School Outstanding CLP Member
