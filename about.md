@@ -3,9 +3,13 @@ layout: page
 title: About
 ---
 
-**CET6** Score 634.
+##### 研究兴趣
 
-**CMC** Provincial First Prize , National Second Prize.
+大模型高效参数微调（PEFT）
 
-**MCM/ICM** Honorable Mention.
+计算机视觉（CV）
+
+多模态大语言模型（MLLM）
+
+人工智能与交叉学科研究（AI4S）
 
