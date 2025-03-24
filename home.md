@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: /
 ---
 
 ### 个人信息
