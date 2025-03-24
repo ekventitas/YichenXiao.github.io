@@ -1,9 +1,9 @@
 - title: Email
   url: 213221558@seu.edu.cn
   icon: fas fa-envelope
-- title: Twitter
-  url: https://ekventitas.github.io/YichenXiao.github.io/
-  icon: fab fa-twitter
+# - title: Twitter
+#   url: https://ekventitas.github.io/YichenXiao.github.io/
+#   icon: fab fa-twitter
 - title: GitHub
-  url: https://ekventitas.github.io/YichenXiao.github.io/
+  url: https://github.com/ekventitas
   icon: fab fa-github
